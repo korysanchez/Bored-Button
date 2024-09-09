@@ -2,15 +2,13 @@ from tkinter import *
 from Palette_Manager import PaletteManager
 from random import shuffle
 from time import sleep
-import os
 
 
-from Wordle import Wordle
-from Minesweeper import Minesweeper
-from Twenty_Forty_Eight import Twenty_Forty_Eight
-from Slide import Slide
-from Color_Fill import Color_Fill
-#import color_fill, minesweeper, wordle, word_hunt, stack, dots_and_boxes, twenty_forty_eight
+from Games.Wordle import Wordle
+from Games.Minesweeper import Minesweeper
+from Games.Twenty_Forty_Eight import Twenty_Forty_Eight
+from Games.Slide import Slide
+from Games.Color_Fill import Color_Fill
 
 class BoredButton:
 

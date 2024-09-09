@@ -1,3 +1,6 @@
+#   TO DO:
+#       Make decent looking color palettes
+
 class PaletteManager:
     palettes = [
     #Primary          Secondary          Tertiary          Contrast         More Contrast           Error
