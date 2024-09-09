@@ -114,6 +114,6 @@ if __name__ == '__main__':
     button = BoredButton(pm)
     r = button.get_root()
 
-    games = [Wordle(r, pm), Minesweeper(r, pm), Twenty_Forty_Eight(r, pm), Slide(r, pm), Color_Fill(r, pm), Word_Hunt(r, pm)]
+    games = [Wordle(r, pm), Minesweeper(r, pm), Twenty_Forty_Eight(r, pm), Slide(r, pm), Color_Fill(r, pm)]
     button.run(games)
 

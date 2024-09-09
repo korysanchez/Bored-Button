@@ -6,7 +6,7 @@ from GameApp import Game
 
 #   TO DO:
 #       Add reset function
-#
+#       Properly tag all objects
 
 
 class Color_Fill(Game):
